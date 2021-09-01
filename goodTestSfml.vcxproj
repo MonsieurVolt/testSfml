@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\planes_game\RessourcesHolder.hpp" />
+    <ClInclude Include="RessourcesHolder.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\planes_game\main.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
